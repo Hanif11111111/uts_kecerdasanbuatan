@@ -1,1 +1,1 @@
-# kecerdasan_buatan
+#UTS kecerdasan_buatan
